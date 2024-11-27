@@ -2,7 +2,7 @@
 
 I'm Leigh, a DevSecOps consultant specialising in transforming multi-cloud infrastructure, streamlining DevOps processes and implementing scalable, secure solutions.
 With well over a decade of experience in various cloud platforms spanning AWS, Azure and GCP, as well as Kubernetes and various tooling, I help businesses optimise cloud architecture, build CI/CD pipelines and reduce operational complexity.  
-I'm very much a polyglot, I pick up and use whatever's needed and therefore have a very wide expertise.
+I'm very much a polymath, I pick up and use whatever's needed and therefore have a very wide expertise.
 
 Here you'll find a variety of repos I've put together for tooling and scripts I've found useful and reusable, or non-competitive variants of code I've developed for various clients.
 
@@ -16,7 +16,6 @@ For the last few years I've also been offering Life Coaching through Succeed Wit
 
 
 ## Tech stack
-(Some of it at least 🤣)
 
 
 ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E.svg?style=for-the-badge&logo=Amazon-Web-Services&logoColor=white) 
